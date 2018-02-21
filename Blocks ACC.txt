@@ -1,0 +1,630 @@
+File input: AT3_1m4_01.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.980379
+Block dimension: 32 x 32	 ACC Blocks: 0.975414
+Block dimension: 45 x 45	 ACC Blocks: 0.978409
+Block dimension: 55 x 55	 ACC Blocks: 0.978241
+Block dimension: 64 x 64	 ACC Blocks: 0.974234
+Block dimension: 72 x 72	 ACC Blocks: 0.971738
+File input: AT3_1m4_02.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.983780
+Block dimension: 32 x 32	 ACC Blocks: 0.978149
+Block dimension: 45 x 45	 ACC Blocks: 0.977816
+Block dimension: 55 x 55	 ACC Blocks: 0.978301
+Block dimension: 64 x 64	 ACC Blocks: 0.973343
+Block dimension: 72 x 72	 ACC Blocks: 0.973947
+File input: AT3_1m4_03.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.983032
+Block dimension: 32 x 32	 ACC Blocks: 0.978280
+Block dimension: 45 x 45	 ACC Blocks: 0.978877
+Block dimension: 55 x 55	 ACC Blocks: 0.978583
+Block dimension: 64 x 64	 ACC Blocks: 0.976221
+Block dimension: 72 x 72	 ACC Blocks: 0.978810
+File input: AT3_1m4_04.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.981885
+Block dimension: 32 x 32	 ACC Blocks: 0.981389
+Block dimension: 45 x 45	 ACC Blocks: 0.975454
+Block dimension: 55 x 55	 ACC Blocks: 0.975643
+Block dimension: 64 x 64	 ACC Blocks: 0.972158
+Block dimension: 72 x 72	 ACC Blocks: 0.975864
+File input: AT3_1m4_05.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.983359
+Block dimension: 32 x 32	 ACC Blocks: 0.978935
+Block dimension: 45 x 45	 ACC Blocks: 0.977612
+Block dimension: 55 x 55	 ACC Blocks: 0.979966
+Block dimension: 64 x 64	 ACC Blocks: 0.973545
+Block dimension: 72 x 72	 ACC Blocks: 0.978251
+File input: AT3_1m4_06.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.985237
+Block dimension: 32 x 32	 ACC Blocks: 0.982736
+Block dimension: 45 x 45	 ACC Blocks: 0.975084
+Block dimension: 55 x 55	 ACC Blocks: 0.980979
+Block dimension: 64 x 64	 ACC Blocks: 0.977638
+Block dimension: 72 x 72	 ACC Blocks: 0.976711
+File input: AT3_1m4_07.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.982494
+Block dimension: 32 x 32	 ACC Blocks: 0.977905
+Block dimension: 45 x 45	 ACC Blocks: 0.980012
+Block dimension: 55 x 55	 ACC Blocks: 0.976637
+Block dimension: 64 x 64	 ACC Blocks: 0.976406
+Block dimension: 72 x 72	 ACC Blocks: 0.975985
+File input: AT3_1m4_08.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.979686
+Block dimension: 32 x 32	 ACC Blocks: 0.978996
+Block dimension: 45 x 45	 ACC Blocks: 0.978702
+Block dimension: 55 x 55	 ACC Blocks: 0.979437
+Block dimension: 64 x 64	 ACC Blocks: 0.973429
+Block dimension: 72 x 72	 ACC Blocks: 0.975965
+File input: AT3_1m4_09.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.982963
+Block dimension: 32 x 32	 ACC Blocks: 0.981004
+Block dimension: 45 x 45	 ACC Blocks: 0.977697
+Block dimension: 55 x 55	 ACC Blocks: 0.978452
+Block dimension: 64 x 64	 ACC Blocks: 0.976147
+Block dimension: 72 x 72	 ACC Blocks: 0.977879
+File input: AT3_1m4_10.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.983149
+Block dimension: 32 x 32	 ACC Blocks: 0.980029
+Block dimension: 45 x 45	 ACC Blocks: 0.979596
+Block dimension: 55 x 55	 ACC Blocks: 0.978567
+Block dimension: 64 x 64	 ACC Blocks: 0.974957
+Block dimension: 72 x 72	 ACC Blocks: 0.978410
+File input: autumn.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.897595
+Block dimension: 32 x 32	 ACC Blocks: 0.836594
+Block dimension: 45 x 45	 ACC Blocks: 0.836115
+Block dimension: 55 x 55	 ACC Blocks: 0.835687
+Block dimension: 64 x 64	 ACC Blocks: 0.827662
+Block dimension: 72 x 72	 ACC Blocks: 0.883490
+File input: baby.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.974003
+Block dimension: 32 x 32	 ACC Blocks: 0.963909
+Block dimension: 45 x 45	 ACC Blocks: 0.953834
+Block dimension: 55 x 55	 ACC Blocks: 0.947559
+Block dimension: 64 x 64	 ACC Blocks: 0.944547
+Block dimension: 72 x 72	 ACC Blocks: 0.942907
+File input: bag.png
+Block dimension: 23 x 23	 ACC Blocks: 0.713977
+Block dimension: 32 x 32	 ACC Blocks: 0.779157
+Block dimension: 45 x 45	 ACC Blocks: 0.665313
+Block dimension: 55 x 55	 ACC Blocks: 0.666606
+Block dimension: 64 x 64	 ACC Blocks: 0.609386
+Block dimension: 72 x 72	 ACC Blocks: 0.679272
+File input: blobs.png
+Block dimension: 23 x 23	 ACC Blocks: NaN
+Block dimension: 32 x 32	 ACC Blocks: NaN
+Block dimension: 45 x 45	 ACC Blocks: 0.286726
+Block dimension: 55 x 55	 ACC Blocks: 0.231661
+Block dimension: 64 x 64	 ACC Blocks: 0.317518
+Block dimension: 72 x 72	 ACC Blocks: 0.233446
+File input: board.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.588160
+Block dimension: 32 x 32	 ACC Blocks: 0.502245
+Block dimension: 45 x 45	 ACC Blocks: 0.565310
+Block dimension: 55 x 55	 ACC Blocks: 0.528085
+Block dimension: 64 x 64	 ACC Blocks: 0.495552
+Block dimension: 72 x 72	 ACC Blocks: 0.529070
+File input: cameraman.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.858540
+Block dimension: 32 x 32	 ACC Blocks: 0.829600
+Block dimension: 45 x 45	 ACC Blocks: 0.810543
+Block dimension: 55 x 55	 ACC Blocks: 0.764159
+Block dimension: 64 x 64	 ACC Blocks: 0.807269
+Block dimension: 72 x 72	 ACC Blocks: 0.766815
+File input: canoe.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.865529
+Block dimension: 32 x 32	 ACC Blocks: 0.865651
+Block dimension: 45 x 45	 ACC Blocks: 0.857481
+Block dimension: 55 x 55	 ACC Blocks: 0.872912
+Block dimension: 64 x 64	 ACC Blocks: 0.862865
+Block dimension: 72 x 72	 ACC Blocks: 0.869830
+File input: car1.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.939323
+Block dimension: 32 x 32	 ACC Blocks: 0.936174
+Block dimension: 45 x 45	 ACC Blocks: 0.908258
+Block dimension: 55 x 55	 ACC Blocks: 0.909197
+Block dimension: 64 x 64	 ACC Blocks: 0.903169
+Block dimension: 72 x 72	 ACC Blocks: 0.906018
+File input: car2.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.913087
+Block dimension: 32 x 32	 ACC Blocks: 0.909081
+Block dimension: 45 x 45	 ACC Blocks: 0.885649
+Block dimension: 55 x 55	 ACC Blocks: 0.882315
+Block dimension: 64 x 64	 ACC Blocks: 0.856564
+Block dimension: 72 x 72	 ACC Blocks: 0.865423
+File input: cell.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.985945
+Block dimension: 32 x 32	 ACC Blocks: 0.979371
+Block dimension: 45 x 45	 ACC Blocks: 0.983275
+Block dimension: 55 x 55	 ACC Blocks: 0.975162
+Block dimension: 64 x 64	 ACC Blocks: 0.977551
+Block dimension: 72 x 72	 ACC Blocks: 0.981858
+File input: circbw.tif
+Block dimension: 23 x 23	 ACC Blocks: NaN
+Block dimension: 32 x 32	 ACC Blocks: NaN
+Block dimension: 45 x 45	 ACC Blocks: NaN
+Block dimension: 55 x 55	 ACC Blocks: NaN
+Block dimension: 64 x 64	 ACC Blocks: NaN
+Block dimension: 72 x 72	 ACC Blocks: NaN
+File input: circles.png
+Block dimension: 23 x 23	 ACC Blocks: NaN
+Block dimension: 32 x 32	 ACC Blocks: NaN
+Block dimension: 45 x 45	 ACC Blocks: NaN
+Block dimension: 55 x 55	 ACC Blocks: NaN
+Block dimension: 64 x 64	 ACC Blocks: NaN
+Block dimension: 72 x 72	 ACC Blocks: NaN
+File input: circlesBrightDark.png
+Block dimension: 23 x 23	 ACC Blocks: NaN
+Block dimension: 32 x 32	 ACC Blocks: NaN
+Block dimension: 45 x 45	 ACC Blocks: NaN
+Block dimension: 55 x 55	 ACC Blocks: 0.869348
+Block dimension: 64 x 64	 ACC Blocks: 0.872598
+Block dimension: 72 x 72	 ACC Blocks: 0.844661
+File input: circuit.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.894641
+Block dimension: 32 x 32	 ACC Blocks: 0.868754
+Block dimension: 45 x 45	 ACC Blocks: 0.857776
+Block dimension: 55 x 55	 ACC Blocks: 0.805120
+Block dimension: 64 x 64	 ACC Blocks: 0.811419
+Block dimension: 72 x 72	 ACC Blocks: 0.759586
+File input: coins.png
+Block dimension: 23 x 23	 ACC Blocks: 0.924392
+Block dimension: 32 x 32	 ACC Blocks: 0.865646
+Block dimension: 45 x 45	 ACC Blocks: 0.820116
+Block dimension: 55 x 55	 ACC Blocks: 0.815719
+Block dimension: 64 x 64	 ACC Blocks: 0.813429
+Block dimension: 72 x 72	 ACC Blocks: 0.792899
+File input: coloredChips.png
+Block dimension: 23 x 23	 ACC Blocks: 0.910424
+Block dimension: 32 x 32	 ACC Blocks: 0.901013
+Block dimension: 45 x 45	 ACC Blocks: 0.868967
+Block dimension: 55 x 55	 ACC Blocks: 0.887876
+Block dimension: 64 x 64	 ACC Blocks: 0.893151
+Block dimension: 72 x 72	 ACC Blocks: 0.886323
+File input: concordaerial.png
+Block dimension: 23 x 23	 ACC Blocks: 0.953024
+Block dimension: 32 x 32	 ACC Blocks: 0.949755
+Block dimension: 45 x 45	 ACC Blocks: 0.942042
+Block dimension: 55 x 55	 ACC Blocks: 0.943408
+Block dimension: 64 x 64	 ACC Blocks: 0.939935
+Block dimension: 72 x 72	 ACC Blocks: 0.936519
+File input: concordorthophoto.png
+Block dimension: 23 x 23	 ACC Blocks: 0.939944
+Block dimension: 32 x 32	 ACC Blocks: 0.935877
+Block dimension: 45 x 45	 ACC Blocks: 0.929086
+Block dimension: 55 x 55	 ACC Blocks: 0.919532
+Block dimension: 64 x 64	 ACC Blocks: 0.919580
+Block dimension: 72 x 72	 ACC Blocks: 0.921130
+File input: eSFRTestImage.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.960839
+Block dimension: 32 x 32	 ACC Blocks: 0.940625
+Block dimension: 45 x 45	 ACC Blocks: 0.913375
+Block dimension: 55 x 55	 ACC Blocks: 0.898596
+Block dimension: 64 x 64	 ACC Blocks: 0.895339
+Block dimension: 72 x 72	 ACC Blocks: 0.909638
+File input: eight.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.970021
+Block dimension: 32 x 32	 ACC Blocks: 0.963068
+Block dimension: 45 x 45	 ACC Blocks: 0.937020
+Block dimension: 55 x 55	 ACC Blocks: 0.928340
+Block dimension: 64 x 64	 ACC Blocks: 0.904302
+Block dimension: 72 x 72	 ACC Blocks: 0.892238
+File input: fabric.png
+Block dimension: 23 x 23	 ACC Blocks: 0.852641
+Block dimension: 32 x 32	 ACC Blocks: 0.855317
+Block dimension: 45 x 45	 ACC Blocks: 0.829379
+Block dimension: 55 x 55	 ACC Blocks: 0.856486
+Block dimension: 64 x 64	 ACC Blocks: 0.859065
+Block dimension: 72 x 72	 ACC Blocks: 0.846163
+File input: foggyroad.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.998918
+Block dimension: 32 x 32	 ACC Blocks: 0.998553
+Block dimension: 45 x 45	 ACC Blocks: 0.998553
+Block dimension: 55 x 55	 ACC Blocks: 0.998524
+Block dimension: 64 x 64	 ACC Blocks: 0.998128
+Block dimension: 72 x 72	 ACC Blocks: 0.997910
+File input: foggysf1.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.951923
+Block dimension: 32 x 32	 ACC Blocks: 0.944338
+Block dimension: 45 x 45	 ACC Blocks: 0.940973
+Block dimension: 55 x 55	 ACC Blocks: 0.931883
+Block dimension: 64 x 64	 ACC Blocks: 0.916658
+Block dimension: 72 x 72	 ACC Blocks: 0.923896
+File input: foggysf2.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.990659
+Block dimension: 32 x 32	 ACC Blocks: 0.989427
+Block dimension: 45 x 45	 ACC Blocks: 0.989051
+Block dimension: 55 x 55	 ACC Blocks: 0.987212
+Block dimension: 64 x 64	 ACC Blocks: 0.983365
+Block dimension: 72 x 72	 ACC Blocks: 0.985609
+File input: foosball.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.934169
+Block dimension: 32 x 32	 ACC Blocks: 0.928130
+Block dimension: 45 x 45	 ACC Blocks: 0.900084
+Block dimension: 55 x 55	 ACC Blocks: 0.891872
+Block dimension: 64 x 64	 ACC Blocks: 0.870840
+Block dimension: 72 x 72	 ACC Blocks: 0.876782
+File input: foosballraw.tiff
+Block dimension: 23 x 23	 ACC Blocks: 0.760800
+Block dimension: 32 x 32	 ACC Blocks: 0.936479
+Block dimension: 45 x 45	 ACC Blocks: 0.753155
+Block dimension: 55 x 55	 ACC Blocks: 0.770532
+Block dimension: 64 x 64	 ACC Blocks: 0.900666
+Block dimension: 72 x 72	 ACC Blocks: 0.890915
+File input: football.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.944108
+Block dimension: 32 x 32	 ACC Blocks: 0.915357
+Block dimension: 45 x 45	 ACC Blocks: 0.921751
+Block dimension: 55 x 55	 ACC Blocks: 0.871404
+Block dimension: 64 x 64	 ACC Blocks: 0.852361
+Block dimension: 72 x 72	 ACC Blocks: 0.816292
+File input: forest.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.959792
+Block dimension: 32 x 32	 ACC Blocks: 0.956855
+Block dimension: 45 x 45	 ACC Blocks: 0.940695
+Block dimension: 55 x 55	 ACC Blocks: 0.944667
+Block dimension: 64 x 64	 ACC Blocks: 0.932189
+Block dimension: 72 x 72	 ACC Blocks: 0.948458
+File input: gantrycrane.png
+Block dimension: 23 x 23	 ACC Blocks: 0.930078
+Block dimension: 32 x 32	 ACC Blocks: 0.908371
+Block dimension: 45 x 45	 ACC Blocks: 0.923648
+Block dimension: 55 x 55	 ACC Blocks: 0.914359
+Block dimension: 64 x 64	 ACC Blocks: 0.898676
+Block dimension: 72 x 72	 ACC Blocks: 0.910202
+File input: glass.png
+Block dimension: 23 x 23	 ACC Blocks: 0.911338
+Block dimension: 32 x 32	 ACC Blocks: 0.928167
+Block dimension: 45 x 45	 ACC Blocks: 0.948597
+Block dimension: 55 x 55	 ACC Blocks: 0.930104
+Block dimension: 64 x 64	 ACC Blocks: 0.874450
+Block dimension: 72 x 72	 ACC Blocks: 0.829018
+File input: greens.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.668204
+Block dimension: 32 x 32	 ACC Blocks: 0.590858
+Block dimension: 45 x 45	 ACC Blocks: 0.609360
+Block dimension: 55 x 55	 ACC Blocks: 0.603540
+Block dimension: 64 x 64	 ACC Blocks: 0.613362
+Block dimension: 72 x 72	 ACC Blocks: 0.618565
+File input: hallway.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.997027
+Block dimension: 32 x 32	 ACC Blocks: 0.994645
+Block dimension: 45 x 45	 ACC Blocks: 0.993566
+Block dimension: 55 x 55	 ACC Blocks: 0.992873
+Block dimension: 64 x 64	 ACC Blocks: 0.991876
+Block dimension: 72 x 72	 ACC Blocks: 0.992845
+File input: hands1-mask.png
+Block dimension: 23 x 23	 ACC Blocks: NaN
+Block dimension: 32 x 32	 ACC Blocks: NaN
+Block dimension: 45 x 45	 ACC Blocks: NaN
+Block dimension: 55 x 55	 ACC Blocks: NaN
+Block dimension: 64 x 64	 ACC Blocks: NaN
+Block dimension: 72 x 72	 ACC Blocks: NaN
+File input: hands1.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.997207
+Block dimension: 32 x 32	 ACC Blocks: 0.995625
+Block dimension: 45 x 45	 ACC Blocks: 0.993998
+Block dimension: 55 x 55	 ACC Blocks: 0.993858
+Block dimension: 64 x 64	 ACC Blocks: 0.993981
+Block dimension: 72 x 72	 ACC Blocks: 0.992871
+File input: hands2.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.997495
+Block dimension: 32 x 32	 ACC Blocks: 0.996411
+Block dimension: 45 x 45	 ACC Blocks: 0.994843
+Block dimension: 55 x 55	 ACC Blocks: 0.994666
+Block dimension: 64 x 64	 ACC Blocks: 0.995223
+Block dimension: 72 x 72	 ACC Blocks: 0.994258
+File input: hestain.png
+Block dimension: 23 x 23	 ACC Blocks: 0.961970
+Block dimension: 32 x 32	 ACC Blocks: 0.947173
+Block dimension: 45 x 45	 ACC Blocks: 0.954684
+Block dimension: 55 x 55	 ACC Blocks: 0.950162
+Block dimension: 64 x 64	 ACC Blocks: 0.949276
+Block dimension: 72 x 72	 ACC Blocks: 0.949544
+File input: hotcoffee.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.996259
+Block dimension: 32 x 32	 ACC Blocks: 0.993905
+Block dimension: 45 x 45	 ACC Blocks: 0.993060
+Block dimension: 55 x 55	 ACC Blocks: 0.990828
+Block dimension: 64 x 64	 ACC Blocks: 0.993639
+Block dimension: 72 x 72	 ACC Blocks: 0.991090
+File input: kids.tif
+Block dimension: 23 x 23	 ACC Blocks: NaN
+Block dimension: 32 x 32	 ACC Blocks: NaN
+Block dimension: 45 x 45	 ACC Blocks: 0.732790
+Block dimension: 55 x 55	 ACC Blocks: 0.718476
+Block dimension: 64 x 64	 ACC Blocks: 0.645581
+Block dimension: 72 x 72	 ACC Blocks: 0.640044
+File input: kobi.png
+Block dimension: 23 x 23	 ACC Blocks: 0.942861
+Block dimension: 32 x 32	 ACC Blocks: 0.930495
+Block dimension: 45 x 45	 ACC Blocks: 0.926378
+Block dimension: 55 x 55	 ACC Blocks: 0.936764
+Block dimension: 64 x 64	 ACC Blocks: 0.946616
+Block dimension: 72 x 72	 ACC Blocks: 0.963815
+File input: liftingbody.png
+Block dimension: 23 x 23	 ACC Blocks: 0.980816
+Block dimension: 32 x 32	 ACC Blocks: 0.975872
+Block dimension: 45 x 45	 ACC Blocks: 0.966467
+Block dimension: 55 x 55	 ACC Blocks: 0.967092
+Block dimension: 64 x 64	 ACC Blocks: 0.967354
+Block dimension: 72 x 72	 ACC Blocks: 0.967567
+File input: lighthouse.png
+Block dimension: 23 x 23	 ACC Blocks: 0.924274
+Block dimension: 32 x 32	 ACC Blocks: 0.907624
+Block dimension: 45 x 45	 ACC Blocks: 0.898869
+Block dimension: 55 x 55	 ACC Blocks: 0.900879
+Block dimension: 64 x 64	 ACC Blocks: 0.862564
+Block dimension: 72 x 72	 ACC Blocks: 0.878483
+File input: logo.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.690877
+Block dimension: 32 x 32	 ACC Blocks: 0.589670
+Block dimension: 45 x 45	 ACC Blocks: 0.611191
+Block dimension: 55 x 55	 ACC Blocks: NaN
+Block dimension: 64 x 64	 ACC Blocks: NaN
+Block dimension: 72 x 72	 ACC Blocks: NaN
+File input: m83.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.933028
+Block dimension: 32 x 32	 ACC Blocks: 0.933640
+Block dimension: 45 x 45	 ACC Blocks: 0.926838
+Block dimension: 55 x 55	 ACC Blocks: 0.927339
+Block dimension: 64 x 64	 ACC Blocks: 0.929619
+Block dimension: 72 x 72	 ACC Blocks: 0.911149
+File input: mandi.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.985001
+Block dimension: 32 x 32	 ACC Blocks: 0.984342
+Block dimension: 45 x 45	 ACC Blocks: 0.969017
+Block dimension: 55 x 55	 ACC Blocks: 0.973700
+Block dimension: 64 x 64	 ACC Blocks: 0.974486
+Block dimension: 72 x 72	 ACC Blocks: 0.971206
+File input: micromarket.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.929699
+Block dimension: 32 x 32	 ACC Blocks: 0.917036
+Block dimension: 45 x 45	 ACC Blocks: 0.911578
+Block dimension: 55 x 55	 ACC Blocks: 0.902756
+Block dimension: 64 x 64	 ACC Blocks: 0.892418
+Block dimension: 72 x 72	 ACC Blocks: 0.894548
+File input: moon.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.807823
+Block dimension: 32 x 32	 ACC Blocks: 0.766143
+Block dimension: 45 x 45	 ACC Blocks: 0.729871
+Block dimension: 55 x 55	 ACC Blocks: 0.704954
+Block dimension: 64 x 64	 ACC Blocks: 0.694819
+Block dimension: 72 x 72	 ACC Blocks: 0.685734
+File input: mri.tif
+Block dimension: 23 x 23	 ACC Blocks: NaN
+Block dimension: 32 x 32	 ACC Blocks: NaN
+Block dimension: 45 x 45	 ACC Blocks: 0.360916
+Block dimension: 55 x 55	 ACC Blocks: 0.488888
+Block dimension: 64 x 64	 ACC Blocks: 0.377562
+Block dimension: 72 x 72	 ACC Blocks: NaN
+File input: office_1.jpg
+Block dimension: 23 x 23	 ACC Blocks: NaN
+Block dimension: 32 x 32	 ACC Blocks: NaN
+Block dimension: 45 x 45	 ACC Blocks: NaN
+Block dimension: 55 x 55	 ACC Blocks: NaN
+Block dimension: 64 x 64	 ACC Blocks: NaN
+Block dimension: 72 x 72	 ACC Blocks: NaN
+File input: office_2.jpg
+Block dimension: 23 x 23	 ACC Blocks: NaN
+Block dimension: 32 x 32	 ACC Blocks: NaN
+Block dimension: 45 x 45	 ACC Blocks: NaN
+Block dimension: 55 x 55	 ACC Blocks: 0.832719
+Block dimension: 64 x 64	 ACC Blocks: 0.813323
+Block dimension: 72 x 72	 ACC Blocks: 0.776759
+File input: office_3.jpg
+Block dimension: 23 x 23	 ACC Blocks: NaN
+Block dimension: 32 x 32	 ACC Blocks: NaN
+Block dimension: 45 x 45	 ACC Blocks: NaN
+Block dimension: 55 x 55	 ACC Blocks: 0.900506
+Block dimension: 64 x 64	 ACC Blocks: 0.877379
+Block dimension: 72 x 72	 ACC Blocks: 0.877817
+File input: office_4.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.936972
+Block dimension: 32 x 32	 ACC Blocks: 0.930470
+Block dimension: 45 x 45	 ACC Blocks: 0.916810
+Block dimension: 55 x 55	 ACC Blocks: 0.923795
+Block dimension: 64 x 64	 ACC Blocks: 0.922143
+Block dimension: 72 x 72	 ACC Blocks: 0.912639
+File input: office_5.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.958517
+Block dimension: 32 x 32	 ACC Blocks: 0.953653
+Block dimension: 45 x 45	 ACC Blocks: 0.947992
+Block dimension: 55 x 55	 ACC Blocks: 0.948851
+Block dimension: 64 x 64	 ACC Blocks: 0.940449
+Block dimension: 72 x 72	 ACC Blocks: 0.934728
+File input: office_6.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.980354
+Block dimension: 32 x 32	 ACC Blocks: 0.975032
+Block dimension: 45 x 45	 ACC Blocks: 0.967921
+Block dimension: 55 x 55	 ACC Blocks: 0.972083
+Block dimension: 64 x 64	 ACC Blocks: 0.973813
+Block dimension: 72 x 72	 ACC Blocks: 0.966803
+File input: onion.png
+Block dimension: 23 x 23	 ACC Blocks: 0.928015
+Block dimension: 32 x 32	 ACC Blocks: 0.892123
+Block dimension: 45 x 45	 ACC Blocks: 0.916963
+Block dimension: 55 x 55	 ACC Blocks: 0.903155
+Block dimension: 64 x 64	 ACC Blocks: 0.868525
+Block dimension: 72 x 72	 ACC Blocks: NaN
+File input: paper1.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.999972
+Block dimension: 32 x 32	 ACC Blocks: 0.999961
+Block dimension: 45 x 45	 ACC Blocks: 0.999960
+Block dimension: 55 x 55	 ACC Blocks: 0.999966
+Block dimension: 64 x 64	 ACC Blocks: 0.999965
+Block dimension: 72 x 72	 ACC Blocks: 0.999966
+File input: pears.png
+Block dimension: 23 x 23	 ACC Blocks: 0.973042
+Block dimension: 32 x 32	 ACC Blocks: 0.972697
+Block dimension: 45 x 45	 ACC Blocks: 0.957667
+Block dimension: 55 x 55	 ACC Blocks: 0.958150
+Block dimension: 64 x 64	 ACC Blocks: 0.937339
+Block dimension: 72 x 72	 ACC Blocks: 0.941357
+File input: pillsetc.png
+Block dimension: 23 x 23	 ACC Blocks: 0.888497
+Block dimension: 32 x 32	 ACC Blocks: 0.886451
+Block dimension: 45 x 45	 ACC Blocks: 0.862150
+Block dimension: 55 x 55	 ACC Blocks: 0.840410
+Block dimension: 64 x 64	 ACC Blocks: 0.837333
+Block dimension: 72 x 72	 ACC Blocks: 0.836451
+File input: pout.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.988476
+Block dimension: 32 x 32	 ACC Blocks: 0.985079
+Block dimension: 45 x 45	 ACC Blocks: 0.982729
+Block dimension: 55 x 55	 ACC Blocks: 0.977571
+Block dimension: 64 x 64	 ACC Blocks: 0.972817
+Block dimension: 72 x 72	 ACC Blocks: 0.969281
+File input: printedtext.png
+Block dimension: 23 x 23	 ACC Blocks: 0.957126
+Block dimension: 32 x 32	 ACC Blocks: 0.967880
+Block dimension: 45 x 45	 ACC Blocks: 0.958487
+Block dimension: 55 x 55	 ACC Blocks: 0.951460
+Block dimension: 64 x 64	 ACC Blocks: 0.957684
+Block dimension: 72 x 72	 ACC Blocks: 0.958742
+File input: rice.png
+Block dimension: 23 x 23	 ACC Blocks: 0.891288
+Block dimension: 32 x 32	 ACC Blocks: 0.917116
+Block dimension: 45 x 45	 ACC Blocks: 0.916503
+Block dimension: 55 x 55	 ACC Blocks: 0.914200
+Block dimension: 64 x 64	 ACC Blocks: 0.908659
+Block dimension: 72 x 72	 ACC Blocks: 0.915551
+File input: riceblurred.png
+Block dimension: 23 x 23	 ACC Blocks: 0.920817
+Block dimension: 32 x 32	 ACC Blocks: 0.926462
+Block dimension: 45 x 45	 ACC Blocks: 0.935912
+Block dimension: 55 x 55	 ACC Blocks: 0.933021
+Block dimension: 64 x 64	 ACC Blocks: 0.930828
+Block dimension: 72 x 72	 ACC Blocks: 0.939765
+File input: saturn.png
+Block dimension: 23 x 23	 ACC Blocks: NaN
+Block dimension: 32 x 32	 ACC Blocks: NaN
+Block dimension: 45 x 45	 ACC Blocks: NaN
+Block dimension: 55 x 55	 ACC Blocks: NaN
+Block dimension: 64 x 64	 ACC Blocks: NaN
+Block dimension: 72 x 72	 ACC Blocks: NaN
+File input: shadow.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.882090
+Block dimension: 32 x 32	 ACC Blocks: 0.886574
+Block dimension: 45 x 45	 ACC Blocks: 0.838344
+Block dimension: 55 x 55	 ACC Blocks: 0.879581
+Block dimension: 64 x 64	 ACC Blocks: 0.856592
+Block dimension: 72 x 72	 ACC Blocks: 0.843883
+File input: snowflakes.png
+Block dimension: 23 x 23	 ACC Blocks: 0.528373
+Block dimension: 32 x 32	 ACC Blocks: 0.493770
+Block dimension: 45 x 45	 ACC Blocks: 0.454394
+Block dimension: 55 x 55	 ACC Blocks: 0.374638
+Block dimension: 64 x 64	 ACC Blocks: NaN
+Block dimension: 72 x 72	 ACC Blocks: NaN
+File input: spine.tif
+Block dimension: 23 x 23	 ACC Blocks: NaN
+Block dimension: 32 x 32	 ACC Blocks: NaN
+Block dimension: 45 x 45	 ACC Blocks: NaN
+Block dimension: 55 x 55	 ACC Blocks: NaN
+Block dimension: 64 x 64	 ACC Blocks: NaN
+Block dimension: 72 x 72	 ACC Blocks: 0.551475
+File input: tape.png
+Block dimension: 23 x 23	 ACC Blocks: 0.906116
+Block dimension: 32 x 32	 ACC Blocks: 0.894446
+Block dimension: 45 x 45	 ACC Blocks: 0.866333
+Block dimension: 55 x 55	 ACC Blocks: 0.785498
+Block dimension: 64 x 64	 ACC Blocks: 0.796524
+Block dimension: 72 x 72	 ACC Blocks: 0.786720
+File input: testpat1.png
+Block dimension: 23 x 23	 ACC Blocks: 0.694609
+Block dimension: 32 x 32	 ACC Blocks: 0.716135
+Block dimension: 45 x 45	 ACC Blocks: 0.648068
+Block dimension: 55 x 55	 ACC Blocks: 0.675501
+Block dimension: 64 x 64	 ACC Blocks: 0.683048
+Block dimension: 72 x 72	 ACC Blocks: 0.647786
+File input: text.png
+Block dimension: 23 x 23	 ACC Blocks: NaN
+Block dimension: 32 x 32	 ACC Blocks: NaN
+Block dimension: 45 x 45	 ACC Blocks: NaN
+Block dimension: 55 x 55	 ACC Blocks: NaN
+Block dimension: 64 x 64	 ACC Blocks: NaN
+Block dimension: 72 x 72	 ACC Blocks: NaN
+File input: threads.png
+Block dimension: 23 x 23	 ACC Blocks: 0.979747
+Block dimension: 32 x 32	 ACC Blocks: 0.975390
+Block dimension: 45 x 45	 ACC Blocks: 0.978486
+Block dimension: 55 x 55	 ACC Blocks: 0.974138
+Block dimension: 64 x 64	 ACC Blocks: 0.972849
+Block dimension: 72 x 72	 ACC Blocks: 0.968598
+File input: tire.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.571634
+Block dimension: 32 x 32	 ACC Blocks: 0.526512
+Block dimension: 45 x 45	 ACC Blocks: 0.532989
+Block dimension: 55 x 55	 ACC Blocks: 0.454137
+Block dimension: 64 x 64	 ACC Blocks: 0.504160
+Block dimension: 72 x 72	 ACC Blocks: 0.485240
+File input: tissue.png
+Block dimension: 23 x 23	 ACC Blocks: 0.919329
+Block dimension: 32 x 32	 ACC Blocks: 0.912216
+Block dimension: 45 x 45	 ACC Blocks: 0.904134
+Block dimension: 55 x 55	 ACC Blocks: 0.895514
+Block dimension: 64 x 64	 ACC Blocks: 0.912429
+Block dimension: 72 x 72	 ACC Blocks: 0.911305
+File input: toyobjects.png
+Block dimension: 23 x 23	 ACC Blocks: NaN
+Block dimension: 32 x 32	 ACC Blocks: NaN
+Block dimension: 45 x 45	 ACC Blocks: 0.899320
+Block dimension: 55 x 55	 ACC Blocks: 0.895827
+Block dimension: 64 x 64	 ACC Blocks: 0.885803
+Block dimension: 72 x 72	 ACC Blocks: 0.893505
+File input: toysflash.png
+Block dimension: 23 x 23	 ACC Blocks: 0.892467
+Block dimension: 32 x 32	 ACC Blocks: 0.883907
+Block dimension: 45 x 45	 ACC Blocks: 0.827180
+Block dimension: 55 x 55	 ACC Blocks: 0.818125
+Block dimension: 64 x 64	 ACC Blocks: 0.825934
+Block dimension: 72 x 72	 ACC Blocks: 0.792177
+File input: toysnoflash.png
+Block dimension: 23 x 23	 ACC Blocks: 0.914415
+Block dimension: 32 x 32	 ACC Blocks: 0.891716
+Block dimension: 45 x 45	 ACC Blocks: 0.849951
+Block dimension: 55 x 55	 ACC Blocks: 0.838135
+Block dimension: 64 x 64	 ACC Blocks: 0.840488
+Block dimension: 72 x 72	 ACC Blocks: 0.811549
+File input: trailer.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.955051
+Block dimension: 32 x 32	 ACC Blocks: 0.949951
+Block dimension: 45 x 45	 ACC Blocks: 0.929365
+Block dimension: 55 x 55	 ACC Blocks: 0.932335
+Block dimension: 64 x 64	 ACC Blocks: 0.927146
+Block dimension: 72 x 72	 ACC Blocks: 0.925852
+File input: trees.tif
+Block dimension: 23 x 23	 ACC Blocks: 0.662312
+Block dimension: 32 x 32	 ACC Blocks: 0.662726
+Block dimension: 45 x 45	 ACC Blocks: 0.679959
+Block dimension: 55 x 55	 ACC Blocks: 0.662640
+Block dimension: 64 x 64	 ACC Blocks: 0.617727
+Block dimension: 72 x 72	 ACC Blocks: 0.674104
+File input: westconcordaerial.png
+Block dimension: 23 x 23	 ACC Blocks: 0.958473
+Block dimension: 32 x 32	 ACC Blocks: 0.955217
+Block dimension: 45 x 45	 ACC Blocks: 0.958993
+Block dimension: 55 x 55	 ACC Blocks: 0.950197
+Block dimension: 64 x 64	 ACC Blocks: 0.942587
+Block dimension: 72 x 72	 ACC Blocks: 0.954722
+File input: westconcordorthophoto.png
+Block dimension: 23 x 23	 ACC Blocks: 0.897697
+Block dimension: 32 x 32	 ACC Blocks: 0.899757
+Block dimension: 45 x 45	 ACC Blocks: 0.877168
+Block dimension: 55 x 55	 ACC Blocks: 0.870517
+Block dimension: 64 x 64	 ACC Blocks: 0.874858
+Block dimension: 72 x 72	 ACC Blocks: 0.880381
+File input: yellowlily-segmented.png
+Block dimension: 23 x 23	 ACC Blocks: 0.989014
+Block dimension: 32 x 32	 ACC Blocks: 0.988589
+Block dimension: 45 x 45	 ACC Blocks: 0.983170
+Block dimension: 55 x 55	 ACC Blocks: 0.977206
+Block dimension: 64 x 64	 ACC Blocks: 0.974118
+Block dimension: 72 x 72	 ACC Blocks: 0.973570
+File input: yellowlily.jpg
+Block dimension: 23 x 23	 ACC Blocks: 0.816015
+Block dimension: 32 x 32	 ACC Blocks: 0.802652
+Block dimension: 45 x 45	 ACC Blocks: 0.761728
+Block dimension: 55 x 55	 ACC Blocks: 0.745071
+Block dimension: 64 x 64	 ACC Blocks: 0.726376
+Block dimension: 72 x 72	 ACC Blocks: 0.704245
