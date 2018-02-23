@@ -1,0 +1,39 @@
+File input: house.tiff
+SIZE IMG: M=512  N=512
+NUM STRIPES=2
+SIZE m=512
+start image_acquisition...
+Size Y: 512x256
+Size Phi: 512x1024
+TIME image_acquisition: 0.68 sec
+start image_reconstruction
+TIME CS image_reconstruction: 384.41 sec
+Peak Signal-to-Noise Ratio (PSNR)=25.0979
+Compression Ratio = 2
+Peak Signal-to-Noise Ratio (PSNR) JPEG2000=50.2344
+File input: house.tiff
+SIZE IMG: M=512  N=512
+NUM STRIPES=4
+SIZE m=512
+start image_acquisition...
+Size Y: 512x128
+Size Phi: 512x2048
+TIME image_acquisition: 0.35 sec
+start image_reconstruction
+TIME CS image_reconstruction: 341.1 sec
+Peak Signal-to-Noise Ratio (PSNR)=21.3433
+Compression Ratio = 4
+Peak Signal-to-Noise Ratio (PSNR) JPEG2000=45.0842
+File input: house.tiff
+SIZE IMG: M=512  N=512
+NUM STRIPES=8
+SIZE m=512
+start image_acquisition...
+Size Y: 512x64
+Size Phi: 512x4096
+TIME image_acquisition: 0.25 sec
+start image_reconstruction
+TIME CS image_reconstruction: 439.79 sec
+Peak Signal-to-Noise Ratio (PSNR)=19.6313
+Compression Ratio = 8
+Peak Signal-to-Noise Ratio (PSNR) JPEG2000=38.9501

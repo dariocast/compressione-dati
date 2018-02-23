@@ -1,0 +1,39 @@
+File input: airplane.tiff
+SIZE IMG: M=512  N=512
+NUM STRIPES=2
+SIZE m=512
+start image_acquisition...
+Size Y: 512x256
+Size Phi: 512x1024
+TIME image_acquisition: 0.66 sec
+start image_reconstruction
+TIME CS image_reconstruction: 357.27 sec
+Peak Signal-to-Noise Ratio (PSNR)=27.9966
+Compression Ratio = 2
+Peak Signal-to-Noise Ratio (PSNR) JPEG2000=49.8
+File input: airplane.tiff
+SIZE IMG: M=512  N=512
+NUM STRIPES=4
+SIZE m=512
+start image_acquisition...
+Size Y: 512x128
+Size Phi: 512x2048
+TIME image_acquisition: 0.26 sec
+start image_reconstruction
+TIME CS image_reconstruction: 369.03 sec
+Peak Signal-to-Noise Ratio (PSNR)=22.9682
+Compression Ratio = 4
+Peak Signal-to-Noise Ratio (PSNR) JPEG2000=47.0512
+File input: airplane.tiff
+SIZE IMG: M=512  N=512
+NUM STRIPES=8
+SIZE m=512
+start image_acquisition...
+Size Y: 512x64
+Size Phi: 512x4096
+TIME image_acquisition: 0.33 sec
+start image_reconstruction
+TIME CS image_reconstruction: 450.02 sec
+Peak Signal-to-Noise Ratio (PSNR)=20.6899
+Compression Ratio = 8
+Peak Signal-to-Noise Ratio (PSNR) JPEG2000=42.0293
