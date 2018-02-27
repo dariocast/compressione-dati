@@ -1,0 +1,20 @@
+Size Phi: 512x2048
+TIME image_acquisition: 0.3432 sec
+start image_reconstruction
+TIME CS image_reconstruction: 744.2808 sec
+Peak Signal-to-Noise Ratio (PSNR)=19.6889
+Compression Ratio = 4
+Peak Signal-to-Noise Ratio (PSNR) JPEG2000=54.8864
+File input: woman1.jpg
+SIZE IMG: M=512  N=512
+NUM STRIPES=8
+SIZE m=512
+start image_acquisition...
+Size Y: 512x64
+Size Phi: 512x4096
+TIME image_acquisition: 0.4056 sec
+start image_reconstruction
+TIME CS image_reconstruction: 794.9499 sec
+Peak Signal-to-Noise Ratio (PSNR)=18.0264
+Compression Ratio = 8
+Peak Signal-to-Noise Ratio (PSNR) JPEG2000=47.6661

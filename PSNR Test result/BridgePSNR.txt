@@ -1,0 +1,39 @@
+File input: bridge.tiff
+SIZE IMG: M=512  N=512
+NUM STRIPES=2
+SIZE m=512
+start image_acquisition...
+Size Y: 512x256
+Size Phi: 512x1024
+TIME image_acquisition: 0.7488 sec
+start image_reconstruction
+TIME CS image_reconstruction: 669.6031 sec
+Peak Signal-to-Noise Ratio (PSNR)=23.4411
+Compression Ratio = 2
+Peak Signal-to-Noise Ratio (PSNR) JPEG2000=47.5676
+File input: bridge.tiff
+SIZE IMG: M=512  N=512
+NUM STRIPES=4
+SIZE m=512
+start image_acquisition...
+Size Y: 512x128
+Size Phi: 512x2048
+TIME image_acquisition: 0.3588 sec
+start image_reconstruction
+TIME CS image_reconstruction: 722.7058 sec
+Peak Signal-to-Noise Ratio (PSNR)=20.2667
+Compression Ratio = 4
+Peak Signal-to-Noise Ratio (PSNR) JPEG2000=36.6119
+File input: bridge.tiff
+SIZE IMG: M=512  N=512
+NUM STRIPES=8
+SIZE m=512
+start image_acquisition...
+Size Y: 512x64
+Size Phi: 512x4096
+TIME image_acquisition: 0.3744 sec
+start image_reconstruction
+TIME CS image_reconstruction: 768.4297 sec
+Peak Signal-to-Noise Ratio (PSNR)=18.4636
+Compression Ratio = 8
+Peak Signal-to-Noise Ratio (PSNR) JPEG2000=30.5217

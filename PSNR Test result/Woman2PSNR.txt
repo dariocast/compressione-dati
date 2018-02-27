@@ -1,0 +1,39 @@
+File input: woman2.jpg
+SIZE IMG: M=512  N=512
+NUM STRIPES=2
+SIZE m=512
+start image_acquisition...
+Size Y: 512x256
+Size Phi: 512x1024
+TIME image_acquisition: 0.85801 sec
+start image_reconstruction
+TIME CS image_reconstruction: 652.2714 sec
+Peak Signal-to-Noise Ratio (PSNR)=24.0738
+Compression Ratio = 2
+Peak Signal-to-Noise Ratio (PSNR) JPEG2000=55.0577
+File input: woman2.jpg
+SIZE IMG: M=512  N=512
+NUM STRIPES=4
+SIZE m=512
+start image_acquisition...
+Size Y: 512x128
+Size Phi: 512x2048
+TIME image_acquisition: 0.3276 sec
+start image_reconstruction
+TIME CS image_reconstruction: 638.2625 sec
+Peak Signal-to-Noise Ratio (PSNR)=20.6696
+Compression Ratio = 4
+Peak Signal-to-Noise Ratio (PSNR) JPEG2000=55.0577
+File input: woman2.jpg
+SIZE IMG: M=512  N=512
+NUM STRIPES=8
+SIZE m=512
+start image_acquisition...
+Size Y: 512x64
+Size Phi: 512x4096
+TIME image_acquisition: 0.3432 sec
+start image_reconstruction
+TIME CS image_reconstruction: 705.2493 sec
+Peak Signal-to-Noise Ratio (PSNR)=18.8572
+Compression Ratio = 8
+Peak Signal-to-Noise Ratio (PSNR) JPEG2000=48.0736
